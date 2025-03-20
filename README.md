@@ -30,8 +30,8 @@
     <br>
     <!-- 스탯 -->
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats 🏅 </h2> <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=riadan710&show_icons=true" alt="Anurag's GitHub stats"/><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riadan710&layout=compact&hide=C%23" alt="Top Langs" /> &nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=riadan710&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats"/><br><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riadan710&layout=compact&hide=C%23&theme=tokyonight" alt="Top Langs" /> &nbsp;&nbsp;
     <a href="https://solved.ac/a0334787">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=a0334787" alt="Solved.ac 프로필" />
     </a>
