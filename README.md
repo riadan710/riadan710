@@ -1,6 +1,6 @@
 <div align= "center">
     <!-- 타이틀 -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2278fb,100:6bdfdb&height=250&section=header&text=Woojin%20Lee&fontSize=80&fontAlign=50&fontAlignY=30&fontColor=ffffff&animation=fadeIn&desc=Welcome%20to%20my%20GitHub&descAlignY=60&descSize=25"/>
+    <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2278fb,100:6bdfdb&height=250&section=header&text=Woojin%20Lee&fontSize=80&fontAlign=50&fontAlignY=30&fontColor=ffffff&animation=fadeIn&desc=Welcome%20to%20my%20GitHub&descAlignY=60&descSize=25"/> -->
     <!-- 테크 스택 -->
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks 🛠️ </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
